@@ -1,0 +1,15 @@
+{
+  "name": "mgardner999-ds1",
+  "version": "0.0.1",
+  "dependencies": 
+  {
+    "express":"3.3.4",
+    "mocha":"1.12.0",
+    "visionmedia-jscoverage":"1.0.0",
+    "daemon":"1.1.0"
+  },
+  "scripts": 
+  {
+    "test": "make test"
+  }
+}
